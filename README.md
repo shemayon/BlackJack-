@@ -15,11 +15,7 @@ This is a simple implementation of the classic Blackjack game in Python. The gam
    ```
    cd Blackjack
    ```
-4. Run the game:
-   ```
-   python Blackjack.py
-   ```
-5. Follow the prompts to play the game. The rules are standard Blackjack rules:
+4. Follow the prompts to play the game. The rules are standard Blackjack rules:
    - The player is dealt two cards initially.
    - The player can choose to "hit" (get another card) or "stand" (keep the current total).
    - The goal is to get as close to 21 points without going over.
