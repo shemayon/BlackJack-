@@ -6,7 +6,7 @@ This is a simple implementation of the classic Blackjack game in Python. The gam
 
 1. Clone this repository to your local machine:
    ```
-   git clone https://github.com/shemayon/Blackjack.git
+   git clone https://github.com/shemayon/BlackJack-using-python.git
    ```
 
   # If you are not able to clone the repository download the python file and try to run it !!
